@@ -80,7 +80,7 @@ An interactive Tableau dashboard analyzing global video game sales trends across
 
 ## 🚀 How to Open
 
-1. Download `Video_Game_Sales.twbx`
+1. Download `Video Game sales.twb`
 2. Open in Tableau Desktop (2020.1 or later)
 3. Data is embedded — no reconnection needed
 
